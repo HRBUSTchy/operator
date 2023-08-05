@@ -1,0 +1,19 @@
+{
+  "name": "json_operator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "module": "ESM",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "typescript": "5.1.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
